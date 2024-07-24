@@ -1,0 +1,14 @@
+site_name: Área do Cliente
+theme:
+  name: material
+  custom_dir: overrides
+  logo: img/logo.png
+  favicon: img/logo.png
+  language: pt-BR
+  palette:
+    scheme: slate
+    primary: brown
+    accent: teal
+  font:
+    text: Lora
+copyright: Serviços ao cliente.
